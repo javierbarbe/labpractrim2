@@ -3,5 +3,5 @@ Laboratorio Práctico Trimestre 2 Programación
 
 # Datos Personales
 
-* **Nombre y Apellidos**
+* **Nombre y Apellidos**:
 * **DNI/NIE**:
